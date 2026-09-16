@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Full-stack web development, system design & software testing**
 
-- Personal Web Development Projects **Cahaya Elhamidi**
+- Personal Web Development Projects [Cahaya Elhamidi](https://github.com/divafkr-sketch/cahaya-elhamidi)
 
 - 👯 I’m looking to collaborate on [Open source web development projects](https://github.com/divafkr-sketch)
 
